@@ -257,6 +257,7 @@ SOFTWARE.
 - **OpenCV Community**: Computer vision tools and libraries
 - **Dance Community**: Inspiration and test content for development
 
-**⭐ If this project helped you, please give it a star on GitHub!**
+##
+**⭐ If this project helped you, please give it a star!!**
 
-**Made with ❤️ for better human pose analysis**
+**Made with ❤️**
